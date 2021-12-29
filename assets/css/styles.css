@@ -1,0 +1,26 @@
+.info_back{
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+}
+
+.info_back, .info_text{
+  display: none;
+}
+
+.info_text{
+  position: fixed;
+  width: 50vw;
+  height: 50vw;
+  overflow: scroll;
+}
+
+.info button{
+  top: 0;
+  left: 0;
+}
+
+.info{
+  width: 100%;
+  height: 100%;
+}

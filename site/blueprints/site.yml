@@ -1,0 +1,8 @@
+title: Site
+
+
+sections:
+  published:
+    type: pages
+    unlisted: true
+    status: listed

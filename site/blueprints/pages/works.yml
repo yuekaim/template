@@ -1,0 +1,15 @@
+title: Works
+templates: years
+sections:
+  published:
+    headline: Published
+    type: pages
+    unlisted: true
+    templates: years
+    status: published
+  drafts:
+    headline: Drafts
+    type: pages
+    unlisted: true
+    templates: years
+    status: drafts

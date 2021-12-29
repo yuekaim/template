@@ -1,0 +1,21 @@
+title: Work
+fields:
+  image:
+    label: 图片
+    type: files
+    query: page.images
+    multiple: false
+  title:
+    label: 标题
+    type: text
+  when:
+    label: 年份
+    type: date
+    display: YYYY/MM
+    step: month
+  size:
+    label: 尺寸
+    type: text
+  material:
+    label: 材料
+    type: text

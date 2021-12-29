@@ -1,0 +1,6 @@
+title: about
+fields:
+  about:
+    headline: About Me
+    type: textarea
+    size: large

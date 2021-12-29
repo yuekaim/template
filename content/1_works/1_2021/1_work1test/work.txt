@@ -1,0 +1,19 @@
+Title: work1test
+
+----
+
+Image:
+
+- placeholder.png
+
+----
+
+When: 2021-09-30
+
+----
+
+Size: 100cm x 50cm x 70cm
+
+----
+
+Material: Oil on Canvas

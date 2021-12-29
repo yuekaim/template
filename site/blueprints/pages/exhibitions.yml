@@ -1,0 +1,16 @@
+title: Exhibitions
+templates: exhibition
+sections:
+  published:
+    headline: Published
+    type: pages
+    unlisted: true
+    templates: exhibition
+    status: published
+    layout: cards
+  drafts:
+    headline: Drafts
+    type: pages
+    unlisted: true
+    templates: exhibition
+    status: drafts
